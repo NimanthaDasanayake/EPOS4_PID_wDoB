@@ -1,0 +1,3 @@
+﻿  PIDwDoB_MotorRun.cpp
+D:\Github Projects\Epos_PID_wDoB\src\getopt.h(59): warning C4081: expected 'newline'; found ';'
+  Epos_PID_wDoB.vcxproj -> D:\Github Projects\Epos_PID_wDoB\x64\Release\Epos_PID_wDoB.exe
